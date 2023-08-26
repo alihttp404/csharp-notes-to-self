@@ -1,0 +1,15 @@
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\bin\Debug\net6.0\String Methods.exe
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\bin\Debug\net6.0\String Methods.deps.json
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\bin\Debug\net6.0\String Methods.runtimeconfig.json
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\bin\Debug\net6.0\String Methods.dll
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\bin\Debug\net6.0\String Methods.pdb
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\String Methods.csproj.AssemblyReference.cache
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\String Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\String Methods.AssemblyInfoInputs.cache
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\String Methods.AssemblyInfo.cs
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\String Methods.csproj.CoreCompileInputs.cache
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\String Methods.dll
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\refint\String Methods.dll
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\String Methods.pdb
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\String Methods.genruntimeconfig.cache
+C:\Users\mamma_er07\Documents\c# notes to self\String Methods\String Methods\obj\Debug\net6.0\ref\String Methods.dll
