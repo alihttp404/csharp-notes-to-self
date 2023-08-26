@@ -2,7 +2,7 @@
 
 Console.WriteLine("Hello World"); // new line at the end of string
 Console.Write("Hello World "); // no new line at the end of string
-Console.Clear(); // clears the console screen
+Console.Clear(); // clears the console
 
 // Input
 
