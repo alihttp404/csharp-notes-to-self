@@ -1,0 +1,15 @@
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\Types and Types Conversion.csproj.AssemblyReference.cache
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\Types and Types Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\Types and Types Conversion.AssemblyInfoInputs.cache
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\Types and Types Conversion.AssemblyInfo.cs
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\Types and Types Conversion.csproj.CoreCompileInputs.cache
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\bin\Debug\net6.0\Types and Types Conversion.exe
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\bin\Debug\net6.0\Types and Types Conversion.deps.json
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\bin\Debug\net6.0\Types and Types Conversion.runtimeconfig.json
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\bin\Debug\net6.0\Types and Types Conversion.dll
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\bin\Debug\net6.0\Types and Types Conversion.pdb
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\Types and Types Conversion.dll
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\refint\Types and Types Conversion.dll
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\Types and Types Conversion.pdb
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\Types and Types Conversion.genruntimeconfig.cache
+C:\Users\MammadovAliRovshan\Documents\c#\Types and Types Conversion\Types and Types Conversion\obj\Debug\net6.0\ref\Types and Types Conversion.dll
