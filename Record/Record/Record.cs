@@ -26,6 +26,6 @@ namespace Record
      */
     record Person
     {
-        
+         
     }
 }
