@@ -8,6 +8,6 @@ namespace Struct__Class
 {
     internal class _Class
     {
-        
+         
     }
 }
